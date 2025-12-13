@@ -21,6 +21,12 @@ M3LEM proposes a **digital, immersive learning alternative**, combining **comput
 
 ---
 
+## Privacy Notice
+
+The MetaHuman animation and data used in this project is based on a friend’s gestures and appearance. To protect their privacy, we do not share or publish any results that could reveal their identity.
+
+---
+
 ## Data Collection
 
 * **Source**: Public YouTube videos of **Terz Lfassi artisans**
